@@ -90,4 +90,4 @@ async def pokemon(ctx, pokemon: str):
     
     
 
-bot.run("MTE1MTI4MzI3MDYzODY1MzUyMQ.GyMOQ8.7C0g4DnbUU5E2h3cvlCqLqlEE1qiYcrGSexFOc")
+bot.run("##############################")
