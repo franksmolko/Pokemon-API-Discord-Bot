@@ -85,7 +85,7 @@ async def pokemon(ctx, pokemon: str):
 
 
     else:
-        print("i got nothing")
+        print("I got nothing.")
 
     
     
